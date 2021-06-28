@@ -7,9 +7,11 @@
 
 <p>It is a dataset of 60,000 small square 28×28 pixel grayscale images of handwritten single digits between 0 and 9</p>
 
+<img src="https://user-images.githubusercontent.com/52463722/123666245-aa3f6300-d856-11eb-9fb4-2f382be1ff16.png" >
+
 
 <h2>Model accuracy</h2>
-<img src="https://user-images.githubusercontent.com/52463722/123664965-79126300-d855-11eb-8c97-41e45c5129c8.png" width="250">
+<img src="https://user-images.githubusercontent.com/52463722/123664965-79126300-d855-11eb-8c97-41e45c5129c8.png">
 
 <p>Training accuracy=0.98</p>
 <p>Test accuracy=0.9856</p>
