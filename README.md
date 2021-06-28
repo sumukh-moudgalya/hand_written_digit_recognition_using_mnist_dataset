@@ -9,12 +9,13 @@
 
 
 <h2>Model accuracy</h2>
-![Screenshot (234)](https://user-images.githubusercontent.com/52463722/123664965-79126300-d855-11eb-8c97-41e45c5129c8.png)
+<img src="https://user-images.githubusercontent.com/52463722/123664965-79126300-d855-11eb-8c97-41e45c5129c8.png" width="250">
+
 <p>Training accuracy=0.98</p>
 <p>Test accuracy=0.9856</p>
 
 
-<h2>Getting Started<h2>
+<h2>Getting Started</h2>
   <p>1.Code can be found in the "mnist_hand_written_character_recognition.ipynb" file</p>
   <p>2.The Trained model is saved as "mnist_simple_cnn_10_Epochs.h5"</p>
   <p>3."test_6.png" is used as a custom test file to test the model</p>
